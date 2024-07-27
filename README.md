@@ -20,3 +20,10 @@ Welcome to the News App! This application provides up-to-date news articles cate
 - **Bootstrap**: A popular CSS framework for creating responsive and visually appealing designs.
 - **Vite**: A fast build tool and development server for modern web projects.
 
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![Home Page Screenshot](Screenshots/Home.png)
+![Business Page Screenshot](Screenshots/Business.png)
