@@ -21,9 +21,24 @@ Welcome to the News App! This application provides up-to-date news articles cate
 - **Vite**: A fast build tool and development server for modern web projects.
 
 
+
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ![Home Page Screenshot](Screenshots/Home.png)
+
+![Automobile Page Screenshot](Screenshots/Automobile.png)
+
 ![Business Page Screenshot](Screenshots/Business.png)
+
+![Entertainment Page Screenshot](Screenshots/Entertainment.png)
+
+![Politics Page Screenshot](Screenshots/Politics.png)
+
+![Science Page Screenshot](Screenshots/Science.png)
+
+![Sports Page Screenshot](Screenshots/Sports.png)
+
+![Technology Page Screenshot](Screenshots/Technology.png)
+
