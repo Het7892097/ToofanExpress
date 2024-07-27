@@ -24,8 +24,6 @@ Welcome to the News App! This application provides up-to-date news articles cate
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 ![Home Page Screenshot](Screenshots/Home.png)
 
 ![Automobile Page Screenshot](Screenshots/Automobile.png)
